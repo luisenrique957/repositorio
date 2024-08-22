@@ -1,0 +1,26 @@
+
+/*definimos el nombre de la calse iniciadolo con "./" y su "nombre" esto es un comentario como guia */
+
+.nombreclase{
+    color: darkgreen;
+
+}
+
+.ilink{
+   width: 45px;
+
+}
+
+.imgxd{
+    width: 10000;
+}
+/*id*/
+#identificador{
+    color: rgba(47, 236, 0, 0.753);
+
+}
+/*bloque*/
+
+div {
+    color: blue;
+}
